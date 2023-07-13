@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: veer2/test8
+        image: tripti11/projectimage
         ports:
         - containerPort: 80
